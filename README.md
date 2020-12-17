@@ -1,5 +1,7 @@
 # 001_code_refactor
 Homework Assignment 001
+Live URL: https://rojorevolution.github.io/001_code_refactor/
+Github URL: https://github.com/RojoRevolution/001_code_refactor
 
 # HTML Tags Edited:
     - Changed <div class="header"> to <header>
@@ -13,6 +15,7 @@ Homework Assignment 001
 
 # CSS Changes:
     - Changed .header div rules to .header nav (for both ul and li)
+    - Added additional effects to header. Position Fixed and a box-shadow
     - Added a tag rules specifically for the nav links including a:hover effect
     - Separated CSS sections with comments for easier navigation
     - Combined multipe CSS classes that shared exact same rules in the Main Content and Aside sections
