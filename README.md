@@ -10,7 +10,6 @@ Github URL: https://github.com/RojoRevolution/001_code_refactor
     - Added Alt Tags to the three images housed within the <main> content
     - Changed the primary div for the sidebar to <aside>
     - Added Alt Tags to the three icons in the <aside> section
-    - Footer div was not changed because the <footer> should be part of a larger section, not a section on it's own.
 
 
 # CSS Changes:
@@ -22,7 +21,7 @@ Github URL: https://github.com/RojoRevolution/001_code_refactor
 
 
 # Other Changes:
-    - Formated all images to 72dpi, saved a .pngs and optimized them for the web to reduce their file sizes
+    - Formated all images to 72dpi, saved as .pngs and optimized them for the web to reduce their file sizes
 
 # Additional Notes:
     - In my experience the h1 tag should not be in the header nor be used only for the company name. But seeing as there was no content in the Hero section, I left it as is.
