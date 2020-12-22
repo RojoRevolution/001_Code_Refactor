@@ -100,22 +100,23 @@ p {
 }
 
 /* Main Content Sections CSS*/
-.search-engine-optimization, .online-reputation-management, .social-media-marketing {
+.services {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
+} 
 
 /* Main Content Images */
-.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img  {
+
+.services img {
     max-height: 200px;
 }
 
 /* Main Content h2 */
-.search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2{
+.services h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -132,32 +133,32 @@ p {
     background-color: #2589bd;
 }
 /* Aside (Sidebar) <section> containers CSS */
-.benefit-lead, .benefit-brand, .benefit-cost {
+.individual-benefits {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 /* Aside (Sidebar) h3 CSS */
-.benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
+.individual-benefits h3{
     margin-bottom: 10px;
     text-align: center;
 }
+
 /* Aside (Sidebar) images CSS */
-.benefit-lead img, .benefit-brand img, .benefit-cost img  {
+.individual-benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
 /* Footer area CSS*/
-
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
