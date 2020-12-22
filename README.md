@@ -2,7 +2,6 @@
 Homework Assignment 001
 Live URL: https://rojorevolution.github.io/001_code_refactor/
 Github URL: https://github.com/RojoRevolution/001_code_refactor
-
 ![Screen shot ](assets/images/app_screen.png)
 
 
